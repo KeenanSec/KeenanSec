@@ -26,16 +26,6 @@ I focus on **Blue Teaming**.
 
 ---
 
-## 🛠️ Technical Toolbox
-| Category | Tools/Languages |
-| :--- | :--- |
-| **Languages** | Python, Bash, Javascript , HTML & CSS , SQL |
-| **OS** | Kali Linux, Parrot OS, Windows Server |
-| **Security** | Wireshark, Metasploit, Burp Suite, Nmap |
-| **Defensive** | Splunk, Snort, Wireshark |
-
----
-
 
 ## Certifications
 <div>
