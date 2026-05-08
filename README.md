@@ -7,8 +7,8 @@ I focus on **Blue Teaming**.
 
 ## 🔬 Home Labs
 *Documentation of my hands-on practice in controlled environments.*
+[Home Lab Setup](https://github.com/KeenanSec/Homelabs)
 
-* **Home Lab Setup**: Built a virtualized server environment using Windows Server 2022 an Active Directory.
 * **TryHackMe**: https://tryhackme.com/p/keenantech - Current Rank: Top 1%
 
 ## 🚀 Featured Projects
