@@ -5,14 +5,7 @@ I focus on **Blue Teaming**.
 
 ---
 
-## 🔬 Home Labs
-*Documentation of my hands-on practice in controlled environments.*
-[Home Labs](https://github.com/KeenanSec/Homelabs)
-
-* **TryHackMe**: https://tryhackme.com/p/keenantech - Current Rank: Top 1%
-
-## 🚀 Featured Projects
-*Technical tools and scripts I've developed.*
+## 🚀Projects
 
 ### 🕵️ OSINT Tool
 * **Description:** A Python-based OSINT tool that utilizes advanced OSINT methods including Google Dorks, URL encoding, and path manipulation to gather and analyze information about people, places, or things.
