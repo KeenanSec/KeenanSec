@@ -6,6 +6,10 @@ I focus on **Blue Teaming**.
 ---
 
 ## 🚀Projects
+## 🛡️ Enterprise Security Operations Lab
+* **Description:**
+* **Tech:** OPNSENSE , PROXMOX VE , WAZUH , Active Directory , Pihole, Linkwarden, Vaultwarden, WikiJs
+* [View Project](https://github.com/KeenanSec/Enterprise-Security-Operations-Identity-Lab)
 
 ### 🕵️ OSINT Tool
 * **Description:** A Python-based OSINT tool that utilizes advanced OSINT methods including Google Dorks, URL encoding, and path manipulation to gather and analyze information about people, places, or things.
