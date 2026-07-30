@@ -1,7 +1,7 @@
 # Hi, I'm Keenan 🛡️
 ### Cybersecurity Student
 
-I focus on **Blue Teaming**. 
+I focus on **Detection Engineering & DFIR**. 
 
 ---
 
