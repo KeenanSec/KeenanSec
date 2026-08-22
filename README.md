@@ -6,6 +6,10 @@ I focus on **Detection Engineering & DFIR**.
 ---
 
 ## 🚀Projects
+
+[Portfolio](https://keenanmo.me/)
+[Lab Writeups](https://keenanmo.me/writeups/)
+
 ## 🛡️ Enterprise Security Operations Lab
 * **Description:**
 * **Tech:** OPNSENSE , PROXMOX VE , WAZUH , Active Directory , Pihole, Linkwarden, Vaultwarden, WikiJs
