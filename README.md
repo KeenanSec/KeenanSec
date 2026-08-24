@@ -1,7 +1,7 @@
 # Keenan Morrison
 
 > **Cybersecurity Student** | Detection Engineering & DFIR  
-> [mrtechkeenan.xyz](https://mrtechkeenan.xyz) • [LinkedIn](https://www.linkedin.com/in/keenanmorri) • [GitHub](https://github.com/KeenanSec)
+> [keenanmo.me](https://keenanmo.me) • [LinkedIn](https://www.linkedin.com/in/keenanmorri) • [GitHub](https://github.com/KeenanSec)
 
 ---
 
