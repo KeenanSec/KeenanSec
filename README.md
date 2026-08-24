@@ -1,38 +1,47 @@
-# Hi, I'm Keenan 👋
+# Keenan Morrison
 
-Cybersecurity student focusing on **Detection Engineering** and **DFIR**.
-
-[Portfolio](https://keenanmo.me/) • [Lab Writeups](https://keenanmo.me/blog/) • [LinkedIn](https://www.linkedin.com/in/keenanmorri)
-
----
-
-### Featured Projects
-
-* **[Enterprise Security Operations Lab](https://github.com/KeenanSec/Enterprise-Security-Operations-Identity-Lab)**  
-  Virtualized enterprise environment featuring SIEM monitoring, centralized identity management, and secure network segmentation.  
-  `Proxmox VE` `OPNsense` `Wazuh` `Active Directory`
-
-* **[Toschi (OSINT Tool)](https://github.com/keenantech/Toschi)**  
-  Reconnaissance script automating Google dorking, URL encoding, and path manipulation for intelligence gathering.  
-  `Python` `Bash`
-
-* **[DyspoPass](https://github.com/keenantech/DyspoPass)**  
-  Desktop password manager application built for secure local credential storage and management.  
-  `Python` `Tkinter`
+> **Cybersecurity Student** | Detection Engineering & DFIR  
+> [mrtechkeenan.xyz](https://mrtechkeenan.xyz) • [LinkedIn](https://www.linkedin.com/in/keenanmorri) • [GitHub](https://github.com/KeenanSec)
 
 ---
 
-### Certifications
+### 🛠️ Technical Stack
 
-![CompTIA Security+](https://img.shields.io/badge/-Security%2B-FF0000?style=flat-square&logo=CompTIA&logoColor=white)
-![ISC2 CC](https://img.shields.io/badge/-ISC2%20CC-468145?style=flat-square&logo=isc2&logoColor=white)
-![Google Cybersecurity](https://img.shields.io/badge/-Google%20Cybersecurity-4285F4?style=flat-square&logo=Google&logoColor=white)
-![Cisco CCNA](https://img.shields.io/badge/-CCNA-1BA0D7?style=flat-square&logo=Cisco&logoColor=white)
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Security & SIEM** | Wazuh, Sysmon, Splunk, Wireshark, Snort, Burp Suite, Metasploit |
+| **Forensics & Analysis** | Volatility 3, MemProcFS, Any.Run, VirusTotal |
+| **Identity & Access** | Active Directory, Microsoft Entra ID, Keycloak, LDAP |
+| **Systems & Virtualization** | Proxmox VE, Debian, Ubuntu Server, Windows Server, WSL2 |
+| **Networking & Defense** | OPNsense, pfSense, Cisco Packet Tracer, Tailscale, VLANs |
+| **Languages & Scripting** | Python, Bash, PowerShell, Go, Rust, SQL |
 
 ---
 
-### Skills & Tools
+### 📂 Featured Repositories
 
-* **Security & SIEM:** Wazuh, Wireshark, Snort, Burp Suite, Metasploit, Active Directory
-* **Infrastructure:** Proxmox VE, Debian, VirtualBox
-* **Languages & Scripting:** Python, Bash, JavaScript, HTML/CSS
+| Repository | Focus Area | Description | Stack |
+| :--- | :--- | :--- | :--- |
+| **[Enterprise-SecOps-Identity-Lab](https://github.com/KeenanSec/Enterprise-Security-Operations-Identity-Lab)** | SecOps / IAM | Enterprise lab simulating network segmentation, centralized logging, and access federation. | `Proxmox` `OPNsense` `Wazuh` `AD` |
+| **[Toschi](https://github.com/keenantech/Toschi)** | Automation / OSINT | Reconnaissance engine automating search dorking, URL encoding, and path analysis. | `Python` `Bash` |
+| **[DyspoPass](https://github.com/keenantech/DyspoPass)** | Tooling / Security | Local credential management utility featuring encrypted local storage and GUI. | `Python` `Tkinter` |
+
+---
+
+### 📜 Certifications & Credentials
+
+| Credential | Issuer | Status / ID |
+| :--- | :--- | :--- |
+| **CompTIA Security+** | CompTIA | Active |
+| **CompTIA A+** | CompTIA | Active |
+| **Certified in Cybersecurity (CC)** | ISC2 | Active |
+| **Google Cybersecurity Professional** | Coursera / Google | Completed |
+| **Cisco Certified Network Associate (CCNA)** | Cisco | In Progress |
+
+---
+
+### 📊 Training & Practical Labs
+
+```text
+TryHackMe / HTB / CyberDefenders / LetsDefend : [ 300+ Labs Completed ]
+Specializations                                : [ Detection Engineering, Memory Forensics, Threat Hunting ]
