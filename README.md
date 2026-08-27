@@ -44,8 +44,8 @@
 
 ### 🚩 Competitions
 
-| Competition | Status|
-| :--- | :--- | :--- |
+| Competition | Status |
+| :--- | :---|
 | **SkillsUSA 2025 Cybersecurity** | 2nd District & 5th State |
 | **NCL 2026 ** | In Progress |
 
