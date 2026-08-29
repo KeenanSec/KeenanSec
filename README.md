@@ -1,9 +1,13 @@
-# Keenan Morrison
+# 👋Hello, I'm Keenan!
 
-> **Cybersecurity Student** | Detection Engineering & DFIR  
-> [keenanmo.me](https://keenanmo.me) • [LinkedIn](https://www.linkedin.com/in/keenanmorri) • [GitHub](https://github.com/KeenanSec)
+> **Cybersecurity Student at Western Governor University with strong interest in Detection Engineering & DFIR.
+
+- [Website](https://keenanmo.me)
+- [LinkedIn](https://www.linkedin.com/in/keenanmorri) 
 
 ---
+## CTFs
+[Writeups](https://keenanmo.me/writeups)
 
 ### 🛠️ Technical Stack
 
@@ -17,14 +21,6 @@
 | **Languages & Scripting** | Python, Bash, PowerShell, Go, Rust, SQL |
 
 ---
-
-### 📂 Featured Repositories
-
-| Repository | Focus Area | Description | Stack |
-| :--- | :--- | :--- | :--- |
-| **[Enterprise-SecOps-Identity-Lab](https://github.com/KeenanSec/Enterprise-Security-Operations-Identity-Lab)** | SecOps / IAM | Enterprise lab simulating network segmentation, centralized logging, and access federation. | `Proxmox` `OPNsense` `Wazuh` `AD` |
-| **[Toschi](https://github.com/keenantech/Toschi)** | Automation / OSINT | Reconnaissance engine automating search dorking, URL encoding, and path analysis. | `Python` `Bash` |
-| **[DyspoPass](https://github.com/keenantech/DyspoPass)** | Tooling / Security | Local credential management utility featuring encrypted local storage and GUI. | `Python` `Tkinter` |
 
 ---
 
@@ -50,10 +46,3 @@
 | **NCL 2026** | In Progress |
 
 ---
-
-
-### 📊 Training & Practical Labs
-
-```text
-TryHackMe / HTB / CyberDefenders / LetsDefend : [ 300+ Labs Completed ]
-Specializations                                : [ Detection Engineering, Memory Forensics, Threat Hunting ]
