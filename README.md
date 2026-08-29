@@ -19,7 +19,7 @@ Im a Cybersecurity Student at Western Governor University with a strong interest
 | **Identity & Access** | Active Directory, Microsoft Entra ID, Keycloak, LDAP |
 | **Systems & Virtualization** | Proxmox VE, Debian, Ubuntu Server, Windows Server, WSL2 |
 | **Networking & Defense** | OPNsense, pfSense, Cisco Packet Tracer, Tailscale, VLANs |
-| **Languages & Scripting** | Python, Bash, PowerShell, Go, Rust, SQL |
+| **Languages & Scripting** | Python, Bash, PowerShell |
 
 ### 📜 Certifications & Credentials
 
