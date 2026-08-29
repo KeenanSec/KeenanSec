@@ -4,6 +4,8 @@ Im a Cybersecurity Student at Western Governor University with strong interest i
 
 
 ## Projects
+
+- [Homelabs](https://github.com/KeenanSec/Homelabs) 
 - [Writeups](https://keenanmo.me/writeups)
 
 ### 🛠️ Technical Stack
