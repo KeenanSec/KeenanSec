@@ -1,6 +1,6 @@
 # 👋Hello, I'm Keenan!
 
-Im a Cybersecurity Student at Western Governor University with strong interest in Detection Engineering & DFIR.
+Im a Cybersecurity Student at Western Governor University with a strong interest in Detection Engineering & DFIR.
 
 
 ## Projects
