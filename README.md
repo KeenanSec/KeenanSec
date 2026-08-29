@@ -5,7 +5,7 @@ Im a Cybersecurity Student at Western Governor University with strong interest i
 - [Website](https://keenanmo.me)
 - [LinkedIn](https://www.linkedin.com/in/keenanmorri) 
 
----
+
 ## CTFs
 - [Writeups](https://keenanmo.me/writeups)
 
@@ -20,10 +20,6 @@ Im a Cybersecurity Student at Western Governor University with strong interest i
 | **Networking & Defense** | OPNsense, pfSense, Cisco Packet Tracer, Tailscale, VLANs |
 | **Languages & Scripting** | Python, Bash, PowerShell, Go, Rust, SQL |
 
----
-
----
-
 ### 📜 Certifications & Credentials
 
 | Credential | Issuer | Status / ID |
@@ -34,7 +30,6 @@ Im a Cybersecurity Student at Western Governor University with strong interest i
 | **Google Cybersecurity Professional** | Coursera / Google | Completed |
 | **Cisco Certified Network Associate (CCNA)** | Cisco | In Progress |
 
----
 
 ---
 
