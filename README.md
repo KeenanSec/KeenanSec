@@ -2,17 +2,8 @@
 
 Im a Cybersecurity Student at Western Governor University with strong interest in Detection Engineering & DFIR.
 
-## Find Me Here 
 
-- [Website](https://keenanmo.me)
-- [LinkedIn](https://www.linkedin.com/in/keenanmorri)
-- [TryHackMe]()
-- [HackTheBox]()
-- [CyberDefenders]()
-
-
-
-## CTFs
+## Projects
 - [Writeups](https://keenanmo.me/writeups)
 
 ### 🛠️ Technical Stack
@@ -36,14 +27,19 @@ Im a Cybersecurity Student at Western Governor University with strong interest i
 | **Google Cybersecurity Professional** | Coursera / Google | Completed |
 | **Cisco Certified Network Associate (CCNA)** | Cisco | In Progress |
 
+## Find Me Here 
 
----
+- [Website](https://keenanmo.me)
+- [LinkedIn](https://www.linkedin.com/in/keenanmorri)
+- [TryHackMe]()
+- [HackTheBox]()
+- [CyberDefenders]()
 
 ### 🚩 Competitions
 
 | Competition | Status |
 | :--- | :---|
-| **SkillsUSA 2025 Cybersecurity** | 2nd District & 5th State |
-| **NCL 2026** | In Progress |
+| **SkillsUSA 2025 Cybersecurity Competition** | 2nd District & 5th State |
+| **NCL 2026 Competition** | In Progress |
 
 ---
