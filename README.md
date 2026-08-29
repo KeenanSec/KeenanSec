@@ -1,9 +1,9 @@
 # 👋Hello, I'm Keenan!
 
-> **Cybersecurity Student at Western Governor University with strong interest in Detection Engineering & DFIR.
+Im a Cybersecurity Student at Western Governor University with strong interest in Detection Engineering & DFIR.
 
-- [Website](https://keenanmo.me)
-- [LinkedIn](https://www.linkedin.com/in/keenanmorri) 
+[Website](https://keenanmo.me)
+[LinkedIn](https://www.linkedin.com/in/keenanmorri) 
 
 ---
 ## CTFs
