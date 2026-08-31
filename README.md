@@ -10,7 +10,7 @@ Im a Cybersecurity Student at Western Governor University with a strong interest
 
 
 
-### 🛠️ Technical Stack
+## 🛠️ Technical Stack
 
 | Category | Technologies & Tools |
 | :--- | :--- |
@@ -21,15 +21,9 @@ Im a Cybersecurity Student at Western Governor University with a strong interest
 | **Networking & Defense** | OPNsense, pfSense, Cisco Packet Tracer, Tailscale, VLANs |
 | **Languages & Scripting** | Python, Bash, PowerShell |
 
-### 📜 Certifications & Credentials
+## 📜 Certifications & Credentials
 
-| Credential | Issuer | Status / ID |
-| :--- | :--- | :--- |
-| **CompTIA Security+** | CompTIA | Active |
-| **CompTIA A+** | CompTIA | Active |
-| **Certified in Cybersecurity (CC)** | ISC2 | Active |
-| **Google Cybersecurity Professional** | Coursera / Google | Completed |
-| **Cisco Certified Network Associate (CCNA)** | Cisco | In Progress |
+CompTIA A+ | CompTIA Network+ | CompTIA Security+ | ISC2 CC | CCNA (In Progress)
 
 ## Find Me Here 
 
@@ -38,12 +32,5 @@ Im a Cybersecurity Student at Western Governor University with a strong interest
 - [TryHackMe]()
 - [HackTheBox]()
 - [CyberDefenders]()
-
-### 🚩 Competitions
-
-| Competition | Status |
-| :--- | :---|
-| **SkillsUSA 2025 Cybersecurity Competition** | 2nd District & 5th State |
-| **NCL 2026 Competition** | In Progress |
 
 ---
