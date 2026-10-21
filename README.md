@@ -1,6 +1,6 @@
 # 👋Hello, I'm Keenan!
 
-Im a Cybersecurity Student at Western Governor University with a strong interest in Detection Engineering & DFIR.
+Im a 18 year old Cybersecurity Student at Western Governor University & LSC with a strong interest in Detection Engineering & DFIR.
 
 
 ## Projects
